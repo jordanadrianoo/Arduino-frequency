@@ -24,3 +24,7 @@
   - [Windows Installation Guide](https://www.arduino.cc/en/guide/windows)
   - [IOS Installation Guide](https://www.arduino.cc/en/guide/macOSX)
 
+# Schematics
+
+![alt text-small](https://philectron.github.io/images/arduino-projects-book-project-07/breadboard-layout.jpg)
+❮img src="https://philectron.github.io/images/arduino-projects-book-project-07/breadboard-layout.jpg" width="100" ❯
