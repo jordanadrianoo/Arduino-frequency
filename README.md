@@ -16,7 +16,7 @@
   - 1 Megohm Resistor
   - 220 ohm Resistor
   
-  **Resistor Chart for reference**
+  **Resistor Chart for Reference**
   
  <img src="Images/Resistor-Chart.png" width="700" height="600">
    
@@ -29,6 +29,6 @@
 
 <img src="Images/Schematics.jpg" width="700" height="600">
 
-# Sources and references
+# Sources and References
  - [Arduino](https://www.arduino.cc/)
  - [Arduino Uno](https://store.arduino.cc/usa/arduino-starter-kit)
