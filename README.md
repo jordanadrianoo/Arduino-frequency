@@ -16,14 +16,19 @@
   - 1 Megohm Resistor
   - 220 ohm Resistor
   
+  **Resistor Chart for reference**
   
- <img src="Images/Resistor-Chart.png" width="500">
+ <img src="Images/Resistor-Chart.png" width="700" height="600">
    
   **Software**
   - [Arduino API Downloads](https://www.arduino.cc/en/main/software)
   - [Windows Installation Guide](https://www.arduino.cc/en/guide/windows)
   - [IOS Installation Guide](https://www.arduino.cc/en/guide/macOSX)
 
-# Schematics
+# Arduino Schematics
 
-<img src="Images/Schematics.jpg" width="500">
+<img src="Images/Schematics.jpg" width="700" height="600">
+
+# Sources and references
+ - [Arduino](https://www.arduino.cc/)
+ - [Arduino Uno](https://store.arduino.cc/usa/arduino-starter-kit)
