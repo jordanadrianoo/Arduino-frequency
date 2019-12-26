@@ -26,5 +26,5 @@
 
 # Schematics
 
-![](images/breadboard%20layout.jpg)
+![](Images/Schematics.jpg)
 
