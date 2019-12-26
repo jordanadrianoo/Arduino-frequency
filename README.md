@@ -17,7 +17,7 @@
   - 220 ohm Resistor
   
   
-   ![alt text](http://www.resistorguide.com/pictures/resistor_color_codes_chart.png)
+ <img src="Images/Resistor-Chart.png" width="500">
    
   **Software**
   - [Arduino API Downloads](https://www.arduino.cc/en/main/software)
