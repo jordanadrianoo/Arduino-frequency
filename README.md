@@ -26,5 +26,4 @@
 
 # Schematics
 
-❮img src="Images/Schematics.jpg" ❯
-
+<img src="Images/Schematics.jpg">
