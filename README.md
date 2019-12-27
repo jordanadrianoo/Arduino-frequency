@@ -1,5 +1,5 @@
 # Arduino Frequency Piano
-  This arduino project is inspired by the "Arduino Projects Book" and is project 7. This project uses a single digital input to output multiple frequencies through a piezo. By using ressistors and buttons, we can control what frequncy will be outputed into the piezo. When completed, this project replicates a small piano with a single scale range of pitches. 
+This Arduino project is inspired by the "Arduino Projects Book" and is project 7. This project uses a single digital input to output multiple frequencies through a piezo. By using resistors and buttons, we can control what frequncy will be outtputed into the piezo. When completed, this project replicates a small piano with a single scale range of pitches. 
   
 # Getting Started
   
