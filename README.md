@@ -3,6 +3,7 @@ This Arduino project is inspired by the "Arduino Projects Book" and is project 7
   
 # Getting Started
   
+  
   **Prerequisites**:
   
   **Hardware**
