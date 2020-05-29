@@ -18,7 +18,7 @@ This Arduino project is inspired by the "Arduino Projects Book" and is project 7
   - 220 ohm Resistor
   
   **Resistor Chart for Reference**
-  
+ 
  
  <img src="Images/Resistor-Chart.png" width="700" height="600">
    
